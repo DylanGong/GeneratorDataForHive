@@ -1,0 +1,2 @@
+# GeneratorDataForHive
+用于教授Hive课程时的数据生成
